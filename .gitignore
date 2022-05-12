@@ -1,0 +1,9 @@
+.idea
+server.crt
+server.key
+venv
+static
+db.sqlite3
+secret/key.txt
+dba_manage/settings
+secret/migrations
